@@ -17,20 +17,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AtosGuru" src="https://github-readme-streak-stats.herokuapp.com/?user=AtosGuru&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/AtosGuru/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=AtosGuru&count_private=true&show_icons=true&custom_title=AtosGuru's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-   </a>
 
-  <a href="https://github.com/AtosGuru/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtosGuru&layout=compact&theme=vision-friendly-dark" />
-  </a>  
-</p>
   
 <h3 align="left">Languages and Tools:</h3>
 
