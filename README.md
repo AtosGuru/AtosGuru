@@ -1,5 +1,3 @@
-<img alt="full stack developer" src="https://github.com/atosguru/atosguru/blob/main/Screenshot_2.png" width="100%" />
-
 <div align="center">
  
 
