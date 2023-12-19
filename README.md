@@ -18,7 +18,7 @@
 
 <p>
 Rich experience designing, developing, and implementing web applications.
-Equipped with a diverse and promising skill-set: PHP, Laravel, JS, TS, React, Next, Node, Express etc. 
+Equipped with a diverse and promising skill-set: PHP, Laravel, JS, TS, React, Next, Node, etc. 
 Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using web3.js, Ethers.js, solidity on EVM.
 
 Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
