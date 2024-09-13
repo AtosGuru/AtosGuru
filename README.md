@@ -12,21 +12,41 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About AtosGuru
+🌐 Full Stack Blockchain Developer
 
-<img align="right" alt="Coding" width="400" src="https://github.com/atosguru/atosguru/blob/main/coding.gif?raw=true">
+As a highly skilled Full Stack Blockchain Developer, I specialize in creating innovative and robust decentralized applications (dApps) that leverage cutting-edge blockchain technologies. With extensive experience in various domains, I possess a comprehensive understanding of both front-end and back-end development within the blockchain ecosystem.
 
-<p>
-Rich experience designing, developing, and implementing web applications.
-Equipped with a diverse and promising skill-set: PHP, Laravel, JS, TS, React, Next, Node, etc. 
-Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using web3.js, Ethers.js, solidity on EVM.
+💰 Decentralized Finance (DeFi)
 
-Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
+Designing and implementing DeFi protocols that enhance liquidity, yield farming, and lending solutions, ensuring secure and efficient transactions on Ethereum Virtual Machine (EVM) compatible networks and Solana.
 
-Ready for an opportunity to use my skills to grow your business and revenue exponentially.
-Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
+🔗 Token Development
 
-</p>
+Proficient in creating and deploying custom ERC-20 and ERC-721 tokens, facilitating seamless integration and functionality within various blockchain projects.
+
+💼 Crypto Wallet Applications
+
+Developing user-friendly and secure crypto wallet applications that prioritize user experience and security, enabling users to manage their digital assets with ease.
+
+📈 Decentralized Exchanges (DEX)
+
+Building high-performance DEX platforms that support automated market-making, liquidity pools, and cross-chain trading, ensuring fast and reliable transactions.
+
+🎨 NFT Ecosystems
+
+Expertise in NFT minting and marketplace development, allowing creators and collectors to engage in a vibrant digital art and collectibles ecosystem, with features such as auctions and royalties.
+
+🤖 Crypto Trading Bots
+
+Designing intelligent trading bots that utilize algorithmic strategies to optimize trading performance and automate trading processes across multiple exchanges.
+
+⚡ Layer 2 Solutions
+
+Implementing Layer 2 scaling solutions to enhance transaction throughput and reduce gas fees, ensuring a seamless user experience in high-demand environments.
+
+With a strong foundation in Solidity, Rust, and JavaScript frameworks, I am adept at building scalable, secure, and efficient applications that meet the evolving needs of the blockchain industry. My commitment to continuous learning and staying at the forefront of technological advancements enables me to deliver innovative solutions that drive success for clients and projects alike.
+
+I am passionate about empowering businesses and individuals through blockchain technology, and I thrive in collaborative environments where creativity and technical expertise converge. Let’s connect to explore how I can contribute to your next blockchain venture!
 </div>
 
 <div align="center">
